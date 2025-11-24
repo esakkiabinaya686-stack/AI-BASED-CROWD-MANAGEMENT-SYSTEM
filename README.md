@@ -22,7 +22,7 @@ This project uses computer vision and machine learning techniques to detect and 
 - Box Plot — Crowd Distribution
 - Scatter Plot — Time vs Crowd Size
 - Correlation Matrix — Trend Prediction
-### DATA SET LINK- https://www.kaggle.com/datasets/ubaydulloasatullaev/crowd-detection-video?select=pexels_videos_1677252+%282160p%29.mp4
+##### DATA SET LINK- https://www.kaggle.com/datasets/ubaydulloasatullaev/crowd-detection-video?select=pexels_videos_1677252+%282160p%29.mp4
   
 ### LOW PEOPLE DETECTED
   <img width="1912" height="1037" alt="Screenshot 2025-11-24 220623" src="https://github.com/user-attachments/assets/baac34c4-b460-4608-9a69-d65d0dd70a66" />
