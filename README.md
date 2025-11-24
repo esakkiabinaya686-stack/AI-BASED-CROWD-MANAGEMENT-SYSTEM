@@ -23,11 +23,11 @@ This project uses computer vision and machine learning techniques to detect and 
 - Scatter Plot — Time vs Crowd Size
 - Correlation Matrix — Trend Prediction
   
-LOW PEOPLE DETECTED
+### LOW PEOPLE DETECTED
   <img width="1912" height="1037" alt="Screenshot 2025-11-24 220623" src="https://github.com/user-attachments/assets/baac34c4-b460-4608-9a69-d65d0dd70a66" />
- HIGH PEOPLE DETECTED
+ ### HIGH PEOPLE DETECTED
   <img width="1905" height="1039" alt="Screenshot 2025-11-24 221004" src="https://github.com/user-attachments/assets/35dc52eb-06b8-4bf7-8c1e-2f0ba0aaecb8" />
-DASHBOARD
+### DASHBOARD
   <img width="1895" height="920" alt="Screenshot 2025-11-24 220732" src="https://github.com/user-attachments/assets/82a70a7b-5457-475d-893b-2567509e4f67" />
   <img width="1574" height="770" alt="Screenshot 2025-11-24 220815" src="https://github.com/user-attachments/assets/82dfd3e6-b7d9-46cd-8bf0-9c421f5ee784" />
 
